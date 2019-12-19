@@ -1,0 +1,23 @@
+.outer-box {
+  margin: 10px;
+  box-shadow: 1px 1px 3px 2px rgba(0, 0, 0, 0.5);
+  font-family: Montserrat;
+  padding: 20px; }
+  .outer-box .subHeading {
+    margin: 0;
+    padding: 0; }
+  .outer-box .contestDesc {
+    margin: 15px; }
+  .outer-box .home-link {
+    margin: 1em;
+    color: #0000ee; }
+  .outer-box .link {
+    cursor: pointer; }
+  .outer-box .contestHolder {
+    margin-top: 10px; }
+    .outer-box .contestHolder .categoryName {
+      background-color: #eee;
+      padding: 0.5em 0.25em; }
+    .outer-box .contestHolder .contestName {
+      background-color: #ccc;
+      padding: 1em 1.25em; }
